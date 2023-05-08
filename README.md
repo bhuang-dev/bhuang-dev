@@ -3,6 +3,5 @@
 </p>
 
 <h3 align="center">Hello, I'm Bryan</h3>
-<h8 align="center">a Computer Science student at the University of British Columbia</h8>
+<h7 align="center">a Computer Science student at the University of British Columbia</h7>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuang-dev&label=Profile%20views&color=0e75b6&style=flat" alt="bhuang-dev" /> </p>
