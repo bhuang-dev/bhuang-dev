@@ -3,5 +3,5 @@
 </p>
 
 <h3 align="center">Hello, I'm Bryan</h3>
-<h7 align="center">a Computer Science student at the University of British Columbia</h7>
+<h7 align="center"> a Computer Science student at the University of British Columbia </h7>
 
